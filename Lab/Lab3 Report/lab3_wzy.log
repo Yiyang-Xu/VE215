@@ -1,0 +1,453 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.7.1)  5 NOV 2019 20:49
+entering extended mode
+**lab3_wzy.tex
+("E:\JI Files\大二秋\VE215 电路设计基础\Lab\Lab3 Report\lab3_wzy.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(E:\CTEX\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(E:\CTEX\MiKTeX\tex\latex\base\size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(E:\CTEX\MiKTeX\tex\latex\tools\enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks14
+)
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen103
+))
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(E:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks16
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(E:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(E:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(E:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(E:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(E:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(E:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(E:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(E:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(E:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(E:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(E:\CTEX\MiKTeX\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen114
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen115
+\subfiglabelskip=\skip49
+\c@subfigure=\count100
+\c@lofdepth=\count101
+\c@subtable=\count102
+\c@lotdepth=\count103
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(E:\CTEX\MiKTeX\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+(E:\CTEX\MiKTeX\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(E:\CTEX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(E:\CTEX\MiKTeX\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(E:\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
+\Gm@bindingoffset=\dimen116
+\Gm@wd@mp=\dimen117
+\Gm@odd@mp=\dimen118
+\Gm@even@mp=\dimen119
+\Gm@layoutwidth=\dimen120
+\Gm@layoutheight=\dimen121
+\Gm@layouthoffset=\dimen122
+\Gm@layoutvoffset=\dimen123
+\Gm@dimlist=\toks21
+
+(E:\CTEX\MiKTeX\tex\latex\geometry\geometry.cfg))
+(E:\CTEX\MiKTeX\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(E:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(E:\CTEX\MiKTeX\tex\latex\tools\bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(E:\CTEX\MiKTeX\tex\latex\tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(E:\CTEX\MiKTeX\tex\latex\tools\array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen124
+\extrarowheight=\dimen125
+\NC@list=\toks22
+\extratabsurround=\skip52
+\backup@length=\skip53
+)
+(E:\CTEX\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen126
+)
+(E:\CTEX\MiKTeX\tex\latex\float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count107
+\float@exts=\toks23
+\float@box=\box28
+\@float@everytoks=\toks24
+\@floatcapt=\box29
+)
+(E:\CTEX\MiKTeX\tex\latex\diagbox\diagbox.sty
+Package: diagbox 2011/11/23 v2.0 Making table heads with diagonal lines
+
+(E:\CTEX\MiKTeX\tex\latex\pict2e\pict2e.sty
+Package: pict2e 2011/04/05 v0.2y Improved picture commands (HjG,RN,JT)
+
+(E:\CTEX\MiKTeX\tex\latex\00miktex\pict2e.cfg
+File: pict2e.cfg 2005/12/29 v1.0 MiKTeX 'pict2e' configuration
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+
+(E:\CTEX\MiKTeX\tex\latex\pict2e\p2e-pdftex.def
+File: p2e-pdftex.def 2011/04/05 v0.1t Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks25
+\@arclen=\dimen127
+\@arcrad=\dimen128
+\@tempdimd=\dimen129
+)
+(E:\CTEX\MiKTeX\tex\latex\fp\fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(E:\CTEX\MiKTeX\tex\latex\fp\defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count108
+)
+(E:\CTEX\MiKTeX\tex\latex\fp\fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count109
+\FP@xia=\count110
+\FP@xib=\count111
+\FP@xfa=\count112
+\FP@xfb=\count113
+\FP@rega=\count114
+\FP@regb=\count115
+\FP@regs=\count116
+\FP@times=\count117
+)
+(E:\CTEX\MiKTeX\tex\latex\fp\fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(E:\CTEX\MiKTeX\tex\latex\fp\fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(E:\CTEX\MiKTeX\tex\latex\fp\fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(E:\CTEX\MiKTeX\tex\latex\fp\fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(E:\CTEX\MiKTeX\tex\latex\fp\fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(E:\CTEX\MiKTeX\tex\latex\fp\fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count118
+)
+(E:\CTEX\MiKTeX\tex\latex\fp\fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(E:\CTEX\MiKTeX\tex\latex\fp\fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(E:\CTEX\MiKTeX\tex\latex\fp\fp-eval.sty
+Package: fp-eval 1995/04/03
+))
+\diagbox@boxa=\box30
+\diagbox@boxb=\box31
+\diagbox@boxm=\box32
+\diagbox@wd=\dimen130
+\diagbox@ht=\dimen131
+\diagbox@sepl=\dimen132
+\diagbox@sepr=\dimen133
+)
+("E:\JI Files\大二秋\VE215 电路设计基础\Lab\Lab3 Report\lab3_wzy.aux"
+
+LaTeX Warning: Label `img' multiply defined.
+
+
+LaTeX Warning: Label `img' multiply defined.
+
+
+LaTeX Warning: Label `img' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+ (E:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen134
+\scratchbox=\box33
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen135
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks27
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 88.
+(E:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 88.
+
+(E:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+{E:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: $\bullet $ on input line 130.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+[3] <Figure2.jpg, id=23, 4047.12pt x 3035.34pt>
+File: Figure2.jpg Graphic file (type jpg)
+ <use Figure2.jpg>
+Package pdftex.def Info: Figure2.jpg used on input line 283.
+(pdftex.def)             Requested size: 258.00539pt x 193.45984pt.
+ [4]
+File: Figure2.jpg Graphic file (type jpg)
+
+<use Figure2.jpg>
+Package pdftex.def Info: Figure2.jpg used on input line 292.
+(pdftex.def)             Requested size: 258.00539pt x 193.45984pt.
+ [5 <E:/JI Files/大二秋/VE215 电路设计基础/Lab/Lab3 Report/Figure2.jpg
+>]
+Overfull \hbox (24.0117pt too wide) in paragraph at lines 326--355
+ [] 
+ []
+
+<Figure3.jpg, id=30, 4047.12pt x 3035.34pt>
+File: Figure3.jpg Graphic file (type jpg)
+ <use Figure3.jpg>
+Package pdftex.def Info: Figure3.jpg used on input line 369.
+(pdftex.def)             Requested size: 258.00539pt x 193.45984pt.
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
+
+ []
+
+[7 <E:/JI Files/大二秋/VE215 电路设计基础/Lab/Lab3 Report/Figure3.jpg>
+]
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
+
+ []
+
+<Figure4.jpg, id=38, 4047.12pt x 3035.34pt>
+File: Figure4.jpg Graphic file (type jpg)
+ <use Figure4.jpg>
+Package pdftex.def Info: Figure4.jpg used on input line 403.
+(pdftex.def)             Requested size: 258.00539pt x 193.45984pt.
+ [8 <E:/JI Files/大二秋/VE215 电路设计基础/Lab/Lab3 Report/Figure4.jpg
+>]
+("E:\JI Files\大二秋\VE215 电路设计基础\Lab\Lab3 Report\lab3_wzy.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3784 strings out of 495354
+ 46177 string characters out of 3183860
+ 129802 words of memory out of 3000000
+ 6857 multiletter control sequences out of 15000+200000
+ 9908 words of font info for 37 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 32i,18n,24p,357b,353s stack positions out of 5000i,500n,10000p,200000b,50000s
+<E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/CTEX/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmcsc10.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><E
+:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><E:/CTEX/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmmi5.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmmi7.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/CTEX/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><E:/CTEX/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><E:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on lab3_wzy.pdf (8 pages, 6547073 bytes).
+PDF statistics:
+ 80 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
